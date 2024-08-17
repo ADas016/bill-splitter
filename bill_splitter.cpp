@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  BillSplitter
-//
-//  Created by Shwetabh Singh on 18/08/16.
-//  Copyright © 2016 shwetabh. All rights reserved.
-//
-
 #include <vector>
 #include <map>
 #include <algorithm>
